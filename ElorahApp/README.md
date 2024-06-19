@@ -14,6 +14,6 @@
 
 ## Screenshots
 
-- ![Screenshot](https://github.com/makavelilife/rn-assignment4-11117229/blob/main/ElorahApp/assets/Screenshot1.png)
+- ![Screenshot](https://github.com/makavelilife/rn-assignment4-11117229/blob/main/ElorahApp/assets/Screenshot1%20.png)
 - ![Screenshot](https://github.com/makavelilife/rn-assignment4-11117229/blob/main/ElorahApp/assets/Screenshot2.png)
 
